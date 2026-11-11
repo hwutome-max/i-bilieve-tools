@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "siteName": "I Believe Tools",
+    "homeTitle": "Diamant-Sägeblätter für Fliesen, Stein, Beton und Asphalt",
+    "homeDescription": "Diamant-Sägeblätter aus Danyang für Fliesen, Stein, Beton und Asphalt. Gesinterte, laser-geschweißte und vakuumgelötete Beläge für Einkauf in Europa, Indien, Zentralasien und dem Nahen Osten.",
+    "catalogTitle": "Katalog Diamant-Sägeblätter",
+    "catalogDescription": "Diamant-Sägeblätter nach Material, Bindung, Durchmesser und Stichwort filtern. Maße bleiben in der Sprache des Quellkatalogs.",
+    "inquiryTitle": "Spezifikation anfragen",
+    "inquiryDescription": "Material, Durchmesser und Menge senden. I Believe Tools antwortet aus Danyang.",
+    "productDescription": "Spezifikation für {title}. Namen und Maße folgen dem Quellkatalog."
+  },
+  "nav": {
+    "blades": "Blätter",
+    "markets": "Märkte",
+    "factory": "Werk",
+    "inquiry": "Anfrage",
+    "menu": "Menü",
+    "language": "Sprache"
+  },
+  "hero": {
+    "kicker": "Danyang · seit 2014",
+    "title": "Diamant-Sägeblätter,",
+    "titleEmphasis": "ausgelegt für den Schnitt.",
+    "lead": "Gesinterte, laser-geschweißte und vakuumgelötete Beläge für Fliesen, Stein, Beton und Asphalt. Für die Maschinen in Europa, Indien, Zentralasien und dem Nahen Osten.",
+    "inquiry": "Angebot anfragen",
+    "catalog": "Katalog öffnen",
+    "pdf": "Katalog-PDF"
+  },
+  "markets": {
+    "eyebrow": "Wo das Blatt arbeitet",
+    "title": "Ein Werk. Vier Arten von Schnitt.",
+    "europeName": "Europa",
+    "europeBody": "Millimetermaße für professionelle Arbeit an Fliesen, Stein und Beton. Laser-geschweißte Segmente für Altbeton und Stahlbeton. Der Prospekt nennt ISO 9001:2000 und die deutsche MPA-Sicherheits- und Qualitätszertifizierung.",
+    "indiaName": "Indien",
+    "indiaBody": "Winkelschleifer-Durchmesser für Feinsteinzeug, und ein schwererer Turbo- oder Segmentbelag, wenn Granit ansteht. Handmaschinen ab 105 mm, größere Blätter für Steinbetriebe.",
+    "centralAsiaName": "Zentralasien",
+    "centralAsiaBody": "Fugenschneider und Trennschleifer in Beton, Bewehrung und Asphalt. Segmentblätter für Straßen- und Konstruktionsschnitte, einschließlich Wandsägeblätter.",
+    "middleEastName": "Naher Osten",
+    "middleEastBody": "Marmor und Granit auf der Baustelle, oft trocken und bei Hitze. Dünne Turbobeläge für eine saubere Steinkante, vakuumgelötete Blätter wenn der Schnitt schnell bleiben muss."
+  },
+  "materials": {
+    "eyebrow": "Den Schnitt wählen",
+    "title": "Vom Material ausgehen.",
+    "intro": "Der Katalog beginnt mit Sägeblättern. Schleiftöpfe und Kernbohrer stehen dahinter, für dieselbe Baustelle.",
+    "tile": "Fliesen und Feinsteinzeug",
+    "tileBody": "Geschlossener Rand und dünne Turbobeläge für eine schmale Schnittfuge.",
+    "stone": "Granit und Marmor",
+    "stoneBody": "Turbo- und Segmentbeläge für Granit, Marmor und Stein.",
+    "general": "Allzweck",
+    "generalBody": "Gesinterte und vakuumgelötete Blätter, wenn ein Belag gemischte Materialien schneiden soll.",
+    "concrete": "Beton und Bewehrung",
+    "concreteBody": "Altbeton, Frischbeton und Stahlbeton, dazu Wandsägeblätter.",
+    "asphalt": "Asphalt",
+    "asphaltBody": "Blätter für Asphalt, Frischbeton und andere abrasive Schnitte.",
+    "tuck": "Fugen",
+    "tuckBody": "Konkave Blätter für Fugen, Risse und Ausschnitte."
+  },
+  "process": {
+    "eyebrow": "Wie der Belag sitzt",
+    "title": "Drei Bindungen im Katalog.",
+    "sintered": "Gesintert und heißgepresst",
+    "sinteredBody": "Geschlossene, Turbo- und Segmentblätter für Fliesen, Stein und Allzweckschnitte.",
+    "laser": "Laser-geschweißt",
+    "laserBody": "Laser-geschweißte Segmente für schnelle Betonschnitte und härtere Baustellen.",
+    "brazed": "Vakuumgelötet",
+    "brazedBody": "Eine Diamantlage für schnelles Schneiden in gemischten Materialien."
+  },
+  "companion": {
+    "eyebrow": "Passende Werkzeuge",
+    "title": "Nach dem Blatt.",
+    "cup": "Schleiftöpfe",
+    "cupBody": "Turbo-, Einreihen-, Doppelreihen- und Formschleiftöpfe zum Flächenschliff.",
+    "core": "Kernbohrer",
+    "coreBody": "Kernbohrer und Sets, auch laser-geschweißt und vakuumgelötet."
+  },
+  "factory": {
+    "eyebrow": "Danyang, Jiangsu",
+    "title": "Hier werden die Blätter gefertigt.",
+    "body": "Danyang I Believe Machinery Tools Co., Ltd. fertigt seit 2014 Diamantwerkzeuge in der Danyang Economic Development Zone. Das Werk umfasst 3.000 m². Der Prospekt nennt eine Jahreskapazität von mehr als 2 Millionen Stück sowie ISO 9001:2000 und die deutsche MPA-Sicherheits- und Qualitätszertifizierung.",
+    "founded": "Gegründet",
+    "area": "Werksfläche",
+    "capacity": "Genannte Kapazität",
+    "certs": "Zertifikate im Prospekt",
+    "foundedValue": "2014",
+    "areaValue": "3.000 m²",
+    "capacityValue": "über 2 Mio. Stück",
+    "certsValue": "ISO 9001:2000 · MPA"
+  },
+  "faq": {
+    "title": "Vor der Anfrage",
+    "q1": "Wofür ist dieser Katalog?",
+    "a1": "Zuerst Diamant-Sägeblätter: Fliesen, Stein, Beton, Asphalt und Fugenblätter, gesintert, laser-geschweißt oder vakuumgelötet. Schleiftöpfe und Kernbohrer sind die passenden Werkzeuge.",
+    "q2": "Wo steht das Werk?",
+    "a2": "Danyang Economic Development Zone, Provinz Jiangsu, China.",
+    "q3": "Welche Kapazität und Zertifizierungen werden genannt?",
+    "a3": "Der Prospekt nennt mehr als 2 Millionen Stück im Jahr sowie ISO 9001:2000 und die deutsche MPA-Sicherheits- und Qualitätszertifizierung."
+  },
+  "catalog": {
+    "eyebrow": "Katalog",
+    "title": "Sägeblätter, danach die passenden Werkzeuge.",
+    "intro": "Produktnamen und Maße bleiben in der Sprache des Quellkatalogs. Filtern Sie nach Schnitt, Bindung und Durchmesser.",
+    "material": "Material",
+    "process": "Bindung",
+    "diameter": "Durchmesser",
+    "search": "Suche",
+    "searchPlaceholder": "Name, Modell, Material",
+    "apply": "Anwenden",
+    "all": "Alle Werkzeuge",
+    "blades": "Sägeblätter",
+    "cups": "Schleiftöpfe",
+    "cores": "Kernbohrer",
+    "empty": "Keine Produkte passen zu diesen Filtern.",
+    "productsWord": "Produkte",
+    "open": "Spezifikation",
+    "any": "Alle"
+  },
+  "spec": {
+    "application": "Anwendung",
+    "machinery": "Maschine",
+    "model": "Modellbeispiel",
+    "source": "Quellseite",
+    "inquire": "Dieses Produkt anfragen",
+    "back": "Zurück zum Katalog",
+    "note": "Hinweis",
+    "related": "Durchmesser in diesem Blatt"
+  },
+  "inquiry": {
+    "eyebrow": "Anfrage",
+    "title": "Den Schnitt schicken, keine allgemeine Katalogbitte.",
+    "lead": "Nennen Sie Material, Durchmesser, Maschine und Menge. Die Nachricht geht per E-Mail ans Werk.",
+    "email": "E-Mail",
+    "name": "Name",
+    "country": "Land",
+    "material": "Material",
+    "diameter": "Durchmesser",
+    "quantity": "Menge",
+    "message": "Nachricht",
+    "submit": "Anfrage senden",
+    "pending": "Wird gesendet",
+    "success": "Die Anfrage wurde gesendet.",
+    "invalid": "Bitte eine gültige E-Mail und eine Nachricht eingeben.",
+    "smtp": "Auf diesem Server ist kein Mailversand eingerichtet. Die Anfrage wurde nicht gesendet.",
+    "failed": "Die Anfrage konnte nicht gesendet werden.",
+    "about": "Zu"
+  },
+  "footer": {
+    "company": "Danyang I Believe Machinery Tools Co., Ltd.",
+    "address": "Danyang Economic Development Zone, Jiangsu, China",
+    "rights": "Diamant-Sägeblätter."
+  }
+}

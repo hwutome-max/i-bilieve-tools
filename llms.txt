@@ -1,0 +1,34 @@
+# I Believe Tools
+
+## Company
+
+Danyang I Believe Machinery Tools Co., Ltd. manufactures diamond saw blades in the Danyang Economic Development Zone, Jiangsu Province, China.
+
+## Core products
+
+- Diamond saw blades for tile, porcelain, granite, marble, concrete, asphalt, and tuck pointing.
+- Bonds in the catalog: sintered and hot-pressed, laser welded, vacuum brazed.
+- Matching tools: diamond cup wheels and diamond core bits.
+
+## Capabilities
+
+- Founded: 2014.
+- Factory area: 3000 square meters.
+- Stated annual capacity: more than 2 million pieces.
+- Brochure certifications: ISO 9001:2000 and German MPA safety and quality certification.
+- Buyers the site is written for: Europe, India, Central Asia, and the Middle East.
+
+## Contact
+
+- Email: jessica@ibelievetools.com
+- Phone: +86 158 6292 4461
+- Phone: +86 189 5297 7678
+- Website: http://www.ibelievetools.com
+
+## Site pages
+
+- `/en` `/de` `/it` `/zh` `/ar` `/ru` home
+- `/{locale}/blades` catalog
+- `/{locale}/blades/{id}` specification
+- `/{locale}/inquiry` inquiry form
+- `/brochure.pdf` product brochure

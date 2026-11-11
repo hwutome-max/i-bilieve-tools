@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "siteName": "I Believe Tools",
+    "homeTitle": "Lame diamantate per piastrelle, pietra, calcestruzzo e asfalto",
+    "homeDescription": "Lame diamantate da Danyang per piastrelle, pietra, calcestruzzo e asfalto. Corone sinterizzate, saldate laser e brasate sottovuoto per l'acquisto in Europa, India, Asia centrale e Medio Oriente.",
+    "catalogTitle": "Catalogo lame diamantate",
+    "catalogDescription": "Filtra le lame diamantate per materiale, legante, diametro e parola chiave. Le misure restano nella lingua del catalogo di origine.",
+    "inquiryTitle": "Richiedi una specifica",
+    "inquiryDescription": "Invia materiale, diametro e quantità. I Believe Tools risponde da Danyang.",
+    "productDescription": "Scheda tecnica di {title}. Nomi e misure seguono il catalogo di origine."
+  },
+  "nav": {
+    "blades": "Lame",
+    "markets": "Mercati",
+    "factory": "Stabilimento",
+    "inquiry": "Richiesta",
+    "menu": "Menu",
+    "language": "Lingua"
+  },
+  "hero": {
+    "kicker": "Danyang · dal 2014",
+    "title": "Lame diamantate,",
+    "titleEmphasis": "scelte per il taglio.",
+    "lead": "Corone sinterizzate, saldate laser e brasate sottovuoto per piastrelle, pietra, calcestruzzo e asfalto. Per le macchine usate in Europa, India, Asia centrale e Medio Oriente.",
+    "inquiry": "Chiedi un'offerta",
+    "catalog": "Apri il catalogo",
+    "pdf": "PDF catalogo"
+  },
+  "markets": {
+    "eyebrow": "Dove lavora la lama",
+    "title": "Uno stabilimento. Quattro tipi di taglio.",
+    "europeName": "Europa",
+    "europeBody": "Misure in millimetri per piastrelle, pietra e calcestruzzo professionali. Segmenti saldati laser per calcestruzzo stagionato e armato. Il catalogo cita ISO 9001:2000 e la certificazione tedesca MPA per sicurezza e qualità.",
+    "indiaName": "India",
+    "indiaBody": "Diametri da smerigliatrice per gres porcellanato, e una corona turbo o segmentata più robusta quando si passa al granito. Utensili a mano da 105 mm, lame più grandi per i laboratori della pietra.",
+    "centralAsiaName": "Asia centrale",
+    "centralAsiaBody": "Tagliasfalto e troncatrici su calcestruzzo, armature e asfalto. Lame segmentate per tagli stradali e strutturali, comprese le lame per taglio a parete.",
+    "middleEastName": "Medio Oriente",
+    "middleEastBody": "Marmo e granito in cantiere, spesso a secco e con il caldo. Corone turbo sottili per un bordo pulito, lame brasate sottovuoto quando il taglio deve restare veloce."
+  },
+  "materials": {
+    "eyebrow": "Scegli il taglio",
+    "title": "Parti dal materiale.",
+    "intro": "Il catalogo mette prima le lame. Mole a tazza e punte carotatrici vengono dopo, per lo stesso cantiere.",
+    "tile": "Piastrelle e gres",
+    "tileBody": "Corona continua e turbo sottili per un taglio stretto sulla piastrella.",
+    "stone": "Granito e marmo",
+    "stoneBody": "Corone turbo e segmentate per granito, marmo e pietra.",
+    "general": "Uso generale",
+    "generalBody": "Lame sinterizzate e brasate sottovuoto quando una corona deve coprire materiali misti.",
+    "concrete": "Calcestruzzo e armatura",
+    "concreteBody": "Calcestruzzo stagionato, fresco e armato, più lame per taglio a parete.",
+    "asphalt": "Asfalto",
+    "asphaltBody": "Lame per asfalto, calcestruzzo fresco e altri tagli abrasivi.",
+    "tuck": "Fughe",
+    "tuckBody": "Lame concave per giunti, crepe e fori lavello."
+  },
+  "process": {
+    "eyebrow": "Come è fissata la corona",
+    "title": "Tre leganti nel catalogo.",
+    "sintered": "Sinterizzato e pressato a caldo",
+    "sinteredBody": "Lame a corona continua, turbo e segmentate per piastrelle, pietra e taglio generale.",
+    "laser": "Saldato laser",
+    "laserBody": "Segmenti saldati laser per il taglio rapido del calcestruzzo e i cantieri più duri.",
+    "brazed": "Brasato sottovuoto",
+    "brazedBody": "Un solo strato di diamante, per un taglio rapido su materiali misti."
+  },
+  "companion": {
+    "eyebrow": "Utensili abbinati",
+    "title": "Dopo la lama.",
+    "cup": "Mole a tazza",
+    "cupBody": "Mole turbo, a fila singola, doppia e sagomate per la levigatura di superfici.",
+    "core": "Punte carotatrici",
+    "coreBody": "Punte e set, anche saldati laser e brasati sottovuoto."
+  },
+  "factory": {
+    "eyebrow": "Danyang, Jiangsu",
+    "title": "Le lame si fanno qui.",
+    "body": "Danyang I Believe Machinery Tools Co., Ltd. produce utensili diamantati nella Danyang Economic Development Zone dal 2014. Lo stabilimento misura 3.000 m². Il catalogo indica una capacità annua superiore a 2 milioni di pezzi e cita ISO 9001:2000 più la certificazione tedesca MPA per sicurezza e qualità.",
+    "founded": "Fondazione",
+    "area": "Superficie",
+    "capacity": "Capacità dichiarata",
+    "certs": "Certificazioni nel catalogo",
+    "foundedValue": "2014",
+    "areaValue": "3.000 m²",
+    "capacityValue": "oltre 2 milioni di pezzi",
+    "certsValue": "ISO 9001:2000 · MPA"
+  },
+  "faq": {
+    "title": "Prima della richiesta",
+    "q1": "A che serve questo catalogo?",
+    "a1": "Prima le lame diamantate: piastrelle, pietra, calcestruzzo, asfalto e fughe, sinterizzate, saldate laser o brasate sottovuoto. Mole a tazza e punte carotatrici sono gli utensili abbinati.",
+    "q2": "Dov'è lo stabilimento?",
+    "a2": "Danyang Economic Development Zone, provincia di Jiangsu, Cina.",
+    "q3": "Quali capacità e certificazioni sono indicate?",
+    "a3": "Il catalogo indica oltre 2 milioni di pezzi l'anno e menziona ISO 9001:2000 e la certificazione tedesca MPA per sicurezza e qualità."
+  },
+  "catalog": {
+    "eyebrow": "Catalogo",
+    "title": "Lame, poi gli utensili abbinati.",
+    "intro": "Nomi e misure restano nella lingua del catalogo di origine. Filtra per taglio, legante e diametro.",
+    "material": "Materiale",
+    "process": "Legante",
+    "diameter": "Diametro",
+    "search": "Cerca",
+    "searchPlaceholder": "Nome, modello, materiale",
+    "apply": "Applica",
+    "all": "Tutti gli utensili",
+    "blades": "Lame",
+    "cups": "Mole a tazza",
+    "cores": "Punte",
+    "empty": "Nessun prodotto corrisponde a questi filtri.",
+    "productsWord": "prodotti",
+    "open": "Scheda",
+    "any": "Tutti"
+  },
+  "spec": {
+    "application": "Applicazione",
+    "machinery": "Macchina",
+    "model": "Esempio di modello",
+    "source": "Scheda di origine",
+    "inquire": "Richiedi questo prodotto",
+    "back": "Torna al catalogo",
+    "note": "Nota",
+    "related": "Diametri in questa scheda"
+  },
+  "inquiry": {
+    "eyebrow": "Richiesta",
+    "title": "Invia il taglio, non una richiesta generica.",
+    "lead": "Indica materiale, diametro, macchina e quantità. Il messaggio arriva allo stabilimento via e-mail.",
+    "email": "E-mail",
+    "name": "Nome",
+    "country": "Paese",
+    "material": "Materiale",
+    "diameter": "Diametro",
+    "quantity": "Quantità",
+    "message": "Messaggio",
+    "submit": "Invia richiesta",
+    "pending": "Invio",
+    "success": "La richiesta è stata inviata.",
+    "invalid": "Inserisci un'e-mail valida e un messaggio.",
+    "smtp": "La posta non è configurata su questo server: la richiesta non è stata inviata.",
+    "failed": "La richiesta non è stata inviata.",
+    "about": "Su"
+  },
+  "footer": {
+    "company": "Danyang I Believe Machinery Tools Co., Ltd.",
+    "address": "Danyang Economic Development Zone, Jiangsu, Cina",
+    "rights": "Lame diamantate."
+  }
+}

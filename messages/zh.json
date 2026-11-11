@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "siteName": "I Believe Tools",
+    "homeTitle": "瓷砖、石材、混凝土与沥青金刚石锯片",
+    "homeDescription": "丹阳生产的金刚石锯片，用于瓷砖、石材、混凝土和沥青。烧结、激光焊和真空钎焊刃口，面向欧洲、印度、中亚和中东采购。",
+    "catalogTitle": "金刚石锯片目录",
+    "catalogDescription": "按材料、结合方式、直径和关键字筛选金刚石锯片。产品名称和尺寸沿用来源目录原文。",
+    "inquiryTitle": "发送规格询盘",
+    "inquiryDescription": "请写明材料、直径和数量。I Believe Tools 从丹阳回复。",
+    "productDescription": "{title} 的规格页。名称和尺寸沿用来源目录。"
+  },
+  "nav": {
+    "blades": "锯片",
+    "markets": "市场",
+    "factory": "工厂",
+    "inquiry": "询盘",
+    "menu": "菜单",
+    "language": "语言"
+  },
+  "hero": {
+    "kicker": "丹阳 · 始于 2014",
+    "title": "金刚石锯片，",
+    "titleEmphasis": "按切割对象来选。",
+    "lead": "烧结、激光焊和真空钎焊刃口，用于瓷砖、石材、混凝土和沥青。规格对应欧洲、印度、中亚和中东常用的机具。",
+    "inquiry": "获取报价",
+    "catalog": "打开目录",
+    "pdf": "样本 PDF"
+  },
+  "markets": {
+    "eyebrow": "锯片用在哪里",
+    "title": "同一座工厂。四种切割。",
+    "europeName": "欧洲",
+    "europeBody": "以毫米标注的瓷砖、石材和混凝土专业锯片。激光焊节块用于固化混凝土和钢筋混凝土。样本册写明 ISO 9001:2000，以及德国 MPA 安全质量认证。",
+    "indiaName": "印度",
+    "indiaBody": "角磨机直径用于玻化砖；切到花岗岩时换更厚的涡轮齿或分段齿。手持工具从 105 mm 起，石材厂用更大直径。",
+    "centralAsiaName": "中亚",
+    "centralAsiaBody": "地坪锯和切割锯用于混凝土、钢筋和沥青。分段锯片做路面和结构切割，也包括墙锯片。",
+    "middleEastName": "中东",
+    "middleEastBody": "现场切割大理石和花岗岩，常常干切，环境炎热。薄涡轮齿用来保持石材边缘干净；需要切得快时用真空钎焊锯片。"
+  },
+  "materials": {
+    "eyebrow": "按切割对象选择",
+    "title": "先看材料。",
+    "intro": "目录以锯片为主。杯型磨轮和孔钻放在后面，服务同一项工程。",
+    "tile": "瓷砖与岩板",
+    "tileBody": "连续齿和薄涡轮齿，切缝更窄。",
+    "stone": "花岗岩与大理石",
+    "stoneBody": "涡轮齿和分段齿，用于花岗岩、大理石和石材。",
+    "general": "通用",
+    "generalBody": "一种刃口要应付多种材料时，用烧结片或真空钎焊片。",
+    "concrete": "混凝土与钢筋",
+    "concreteBody": "固化、新浇和钢筋混凝土，以及墙锯片。",
+    "asphalt": "沥青",
+    "asphaltBody": "用于沥青、新浇混凝土和其他磨蚀性切割。",
+    "tuck": "开槽",
+    "tuckBody": "凹形片，用于接缝、裂缝和水槽开孔。"
+  },
+  "process": {
+    "eyebrow": "刃口如何固定",
+    "title": "目录里的三种结合。",
+    "sintered": "烧结与热压",
+    "sinteredBody": "连续齿、涡轮齿和分段齿，用于瓷砖、石材和通用切割。",
+    "laser": "激光焊",
+    "laserBody": "激光焊节块，用于较快的混凝土切割和更重的工地作业。",
+    "brazed": "真空钎焊",
+    "brazedBody": "单层金刚石，适合在混合材料上快速切割。"
+  },
+  "companion": {
+    "eyebrow": "配套工具",
+    "title": "锯片之后。",
+    "cup": "杯型磨轮",
+    "cupBody": "涡轮、单排、双排和异形杯轮，用于表面打磨。",
+    "core": "孔钻",
+    "coreBody": "孔钻和套装，包括激光焊和真空钎焊钻头。"
+  },
+  "factory": {
+    "eyebrow": "江苏丹阳",
+    "title": "锯片在这里生产。",
+    "body": "丹阳市艾比利工具机械有限公司自 2014 年起在丹阳经济开发区生产金刚石工具。厂区 3,000 平方米。样本册写明年产能超过 200 万件，并提到 ISO 9001:2000 以及德国 MPA 安全质量认证。",
+    "founded": "成立",
+    "area": "厂区面积",
+    "capacity": "样本册产能",
+    "certs": "样本册认证",
+    "foundedValue": "2014",
+    "areaValue": "3,000 m²",
+    "capacityValue": "200 万件以上",
+    "certsValue": "ISO 9001:2000 · 德国 MPA"
+  },
+  "faq": {
+    "title": "询盘之前",
+    "q1": "这份目录包含什么？",
+    "a1": "以金刚石锯片为主：瓷砖、石材、混凝土、沥青和开槽片，结合方式为烧结、激光焊和真空钎焊。杯型磨轮和孔钻作为配套工具。",
+    "q2": "工厂在哪里？",
+    "a2": "中国江苏省丹阳经济开发区。",
+    "q3": "样本册写了哪些产能和认证？",
+    "a3": "年产能超过 200 万件，并提到 ISO 9001:2000 以及德国 MPA 安全质量认证。"
+  },
+  "catalog": {
+    "eyebrow": "目录",
+    "title": "先是锯片，然后是配套工具。",
+    "intro": "产品名称和尺寸保持来源目录原文。可按切割对象、结合方式和直径筛选。",
+    "material": "材料",
+    "process": "结合方式",
+    "diameter": "直径",
+    "search": "搜索",
+    "searchPlaceholder": "名称、型号、材料",
+    "apply": "筛选",
+    "all": "全部工具",
+    "blades": "锯片",
+    "cups": "杯型磨轮",
+    "cores": "孔钻",
+    "empty": "没有符合这些条件的产品。",
+    "productsWord": "个产品",
+    "open": "规格页",
+    "any": "全部"
+  },
+  "spec": {
+    "application": "适用范围",
+    "machinery": "设备",
+    "model": "型号示例",
+    "source": "来源页面",
+    "inquire": "询盘此产品",
+    "back": "返回目录",
+    "note": "备注",
+    "related": "本页直径"
+  },
+  "inquiry": {
+    "eyebrow": "询盘",
+    "title": "写明怎么切，而不是只索取目录。",
+    "lead": "请说明材料、直径、设备和数量。留言通过邮件发到工厂。",
+    "email": "邮箱",
+    "name": "姓名",
+    "country": "国家",
+    "material": "材料",
+    "diameter": "直径",
+    "quantity": "数量",
+    "message": "留言",
+    "submit": "发送询盘",
+    "pending": "正在发送",
+    "success": "询盘已发送。",
+    "invalid": "请填写有效邮箱和留言。",
+    "smtp": "这台服务器尚未配置邮件，询盘没有发送。",
+    "failed": "询盘未能发送。",
+    "about": "关于"
+  },
+  "footer": {
+    "company": "丹阳市艾比利工具机械有限公司",
+    "address": "中国江苏省丹阳经济开发区",
+    "rights": "金刚石锯片。"
+  }
+}

@@ -1,0 +1,10 @@
+.DS_Store
+.git
+.omx
+Dockerfile
+node_modules
+.next
+.env
+.env.local
+网站.7z
+data/ibelievetools_product_crawl

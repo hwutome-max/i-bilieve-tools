@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.ibelievetools.com/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://www.ibelievetools.com/index.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="http://www.ibelievetools.com/index.html?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="it" href="http://www.ibelievetools.com/index.html?lang=it"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="http://www.ibelievetools.com/index.html?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://www.ibelievetools.com/index.html"/>
+  </url>
+  <url>
+    <loc>http://www.ibelievetools.com/de.html</loc>
+  </url>
+  <url>
+    <loc>http://www.ibelievetools.com/it.html</loc>
+  </url>
+  <url>
+    <loc>http://www.ibelievetools.com/I%20BELIEVE%20MACHINERY%20TOOLS.pdf</loc>
+  </url>
+</urlset>

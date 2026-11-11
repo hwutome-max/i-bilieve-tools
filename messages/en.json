@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "siteName": "I Believe Tools",
+    "homeTitle": "Diamond saw blades for tile, stone, concrete and asphalt",
+    "homeDescription": "Diamond saw blades from Danyang for tile, stone, concrete and asphalt. Sintered, laser-welded and vacuum-brazed rims for buyers in Europe, India, Central Asia and the Middle East.",
+    "catalogTitle": "Diamond saw blade catalog",
+    "catalogDescription": "Filter diamond saw blades by material, bond, diameter and keyword. Specifications stay in the source catalog wording.",
+    "inquiryTitle": "Request a blade specification",
+    "inquiryDescription": "Send the material, diameter and quantity. I Believe Tools replies from Danyang.",
+    "productDescription": "Specification sheet for {title}. Names and dimensions follow the source catalog."
+  },
+  "nav": {
+    "blades": "Blades",
+    "markets": "Markets",
+    "factory": "Factory",
+    "inquiry": "Inquiry",
+    "menu": "Menu",
+    "language": "Language"
+  },
+  "hero": {
+    "kicker": "Danyang · since 2014",
+    "title": "Diamond saw blades,",
+    "titleEmphasis": "specified for the cut.",
+    "lead": "Sintered, laser-welded and vacuum-brazed rims for tile, stone, concrete and asphalt. Built for the machines used in Europe, India, Central Asia and the Middle East.",
+    "inquiry": "Request a quote",
+    "catalog": "Open the catalog",
+    "pdf": "Brochure PDF"
+  },
+  "markets": {
+    "eyebrow": "Where the blade is used",
+    "title": "Same factory. Four kinds of cut.",
+    "europeName": "Europe",
+    "europeBody": "Millimetre sizes for professional tile, stone and concrete work. Laser-welded segments for cured and reinforced concrete. The brochure cites ISO 9001:2000 and German MPA safety and quality certification.",
+    "indiaName": "India",
+    "indiaBody": "Angle-grinder diameters for vitrified tile, and a heavier turbo or segmented rim when the job moves to granite. Hand tools from 105 mm, with larger blades for stone yards.",
+    "centralAsiaName": "Central Asia",
+    "centralAsiaBody": "Floor saws and cut-off saws in concrete, rebar and asphalt. Segmented blades for road and structural cuts, including wall-saw blades.",
+    "middleEastName": "Middle East",
+    "middleEastBody": "Marble and granite on site, often cut dry and in heat. Thin turbo rims for a clean stone edge, and vacuum-brazed blades when the cut has to stay fast."
+  },
+  "materials": {
+    "eyebrow": "Choose the cut",
+    "title": "Start from the material.",
+    "intro": "The catalog is a saw-blade list first. Cup wheels and core bits sit behind it, for the same job.",
+    "tile": "Tile and porcelain",
+    "tileBody": "Continuous rim and thin turbo blades for a narrow kerf on tile.",
+    "stone": "Granite and marble",
+    "stoneBody": "Turbo and segmented rims for granite, marble and stone.",
+    "general": "General purpose",
+    "generalBody": "Sintered and vacuum-brazed blades when one rim has to cover mixed materials.",
+    "concrete": "Concrete and rebar",
+    "concreteBody": "Cured, green and reinforced concrete, plus wall-saw blades.",
+    "asphalt": "Asphalt",
+    "asphaltBody": "Blades for asphalt, green concrete and other abrasive cuts.",
+    "tuck": "Tuck point",
+    "tuckBody": "Concave blades for joints, cracks and sink cut-outs."
+  },
+  "process": {
+    "eyebrow": "How the rim is held",
+    "title": "Three bonds in the catalog.",
+    "sintered": "Sintered and hot-pressed",
+    "sinteredBody": "Continuous, turbo and segmented blades for tile, stone and general cutting.",
+    "laser": "Laser welded",
+    "laserBody": "Laser-welded segments for fast concrete cutting and harder job-site work.",
+    "brazed": "Vacuum brazed",
+    "brazedBody": "A single layer of diamond, for fast cutting across mixed materials."
+  },
+  "companion": {
+    "eyebrow": "Matching tools",
+    "title": "After the blade.",
+    "cup": "Cup wheels",
+    "cupBody": "Turbo, single-row, double-row and shaped cup wheels for surface grinding.",
+    "core": "Core bits",
+    "coreBody": "Core bits and sets, including laser-welded and vacuum-brazed bits."
+  },
+  "factory": {
+    "eyebrow": "Danyang, Jiangsu",
+    "title": "The blades are made here.",
+    "body": "Danyang I Believe Machinery Tools Co., Ltd. has produced diamond tools in the Danyang Economic Development Zone since 2014. The factory covers 3,000 m². The brochure states an annual capacity of more than 2 million pieces, and cites ISO 9001:2000 plus German MPA safety and quality certification.",
+    "founded": "Founded",
+    "area": "Factory area",
+    "capacity": "Stated capacity",
+    "certs": "Brochure certifications",
+    "foundedValue": "2014",
+    "areaValue": "3,000 m²",
+    "capacityValue": "2 million+ pieces",
+    "certsValue": "ISO 9001:2000 · German MPA"
+  },
+  "faq": {
+    "title": "Before you enquire",
+    "q1": "What is this catalog for?",
+    "a1": "Diamond saw blades first: tile, stone, concrete, asphalt and tuck-point blades, in sintered, laser-welded and vacuum-brazed bonds. Cup wheels and core bits are included as matching tools.",
+    "q2": "Where is the factory?",
+    "a2": "Danyang Economic Development Zone, Jiangsu Province, China.",
+    "q3": "Which capacity and certifications are stated?",
+    "a3": "The brochure states more than 2 million pieces a year, and mentions ISO 9001:2000 and German MPA safety and quality certification."
+  },
+  "catalog": {
+    "eyebrow": "Catalog",
+    "title": "Saw blades, then the matching tools.",
+    "intro": "Product names and dimensions stay in the source catalog wording. Filter by the cut, the bond and the diameter.",
+    "material": "Material",
+    "process": "Bond",
+    "diameter": "Diameter",
+    "search": "Search",
+    "searchPlaceholder": "Name, model, material",
+    "apply": "Apply",
+    "all": "All tools",
+    "blades": "Saw blades",
+    "cups": "Cup wheels",
+    "cores": "Core bits",
+    "empty": "No products match these filters.",
+    "productsWord": "products",
+    "open": "Spec sheet",
+    "any": "Any"
+  },
+  "spec": {
+    "application": "Application",
+    "machinery": "Machinery",
+    "model": "Model example",
+    "source": "Source listing",
+    "inquire": "Enquire about this product",
+    "back": "Back to catalog",
+    "note": "Note",
+    "related": "Diameters in this sheet"
+  },
+  "inquiry": {
+    "eyebrow": "Inquiry",
+    "title": "Send the cut, not a catalogue request.",
+    "lead": "Tell us the material, diameter, machine and quantity. The message goes to the factory by email.",
+    "email": "Email",
+    "name": "Name",
+    "country": "Country",
+    "material": "Material",
+    "diameter": "Diameter",
+    "quantity": "Quantity",
+    "message": "Message",
+    "submit": "Send inquiry",
+    "pending": "Sending",
+    "success": "The inquiry was sent.",
+    "invalid": "Enter a valid email and a message.",
+    "smtp": "Mail is not configured on this server, so the inquiry was not sent.",
+    "failed": "The inquiry could not be sent.",
+    "about": "About"
+  },
+  "footer": {
+    "company": "Danyang I Believe Machinery Tools Co., Ltd.",
+    "address": "Danyang Economic Development Zone, Jiangsu, China",
+    "rights": "Diamond saw blades."
+  }
+}
